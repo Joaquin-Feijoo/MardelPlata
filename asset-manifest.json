@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MardelPlata/static/css/main.f75782eb.css",
-    "main.js": "/MardelPlata/static/js/main.bfab3ecd.js",
+    "main.css": "/MardelPlata/static/css/main.b0c6b22e.css",
+    "main.js": "/MardelPlata/static/js/main.2a20f9bd.js",
     "static/js/453.58d4091b.chunk.js": "/MardelPlata/static/js/453.58d4091b.chunk.js",
     "static/media/Plaza San Martin.jpg": "/MardelPlata/static/media/Plaza San Martin.e5ed6c3ca23eb0c12f2c.jpg",
     "static/media/Saladeros 1860.jpg": "/MardelPlata/static/media/Saladeros 1860.db029515589311e33694.jpg",
@@ -46,12 +46,12 @@
     "static/media/Casa sobre el arroyo2.jpg": "/MardelPlata/static/media/Casa sobre el arroyo2.a2a4cad2443ddbc55db6.jpg",
     "static/media/Plaza San Martin.jpeg": "/MardelPlata/static/media/Plaza San Martin.09e7d2377996274bc96e.jpeg",
     "index.html": "/MardelPlata/index.html",
-    "main.f75782eb.css.map": "/MardelPlata/static/css/main.f75782eb.css.map",
-    "main.bfab3ecd.js.map": "/MardelPlata/static/js/main.bfab3ecd.js.map",
+    "main.b0c6b22e.css.map": "/MardelPlata/static/css/main.b0c6b22e.css.map",
+    "main.2a20f9bd.js.map": "/MardelPlata/static/js/main.2a20f9bd.js.map",
     "453.58d4091b.chunk.js.map": "/MardelPlata/static/js/453.58d4091b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f75782eb.css",
-    "static/js/main.bfab3ecd.js"
+    "static/css/main.b0c6b22e.css",
+    "static/js/main.2a20f9bd.js"
   ]
 }
